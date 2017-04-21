@@ -40,8 +40,8 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "ESP32STACK"
-Date "2017-03-28"
+Title "ESP32Stack"
+Date "2017-04-20"
 Rev "2.1"
 Comp ""
 Comment1 "by asukiaaa"
