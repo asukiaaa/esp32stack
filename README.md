@@ -1,6 +1,8 @@
 # ESP32Stack
 A kicad project of stacking board with using ESP-WROOM-32.
 
+[schema](docs/esp32stack.pdf)
+
 # Components
 - [esp-wroop-32](http://akizukidenshi.com/catalog/g/gM-11647/)
 - [Hirose-microB-USB](http://akizukidenshi.com/catalog/g/gC-05254/)
