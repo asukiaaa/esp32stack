@@ -3,7 +3,7 @@
   (general
     (links 98)
     (no_connects 0)
-    (area 144.826667 61.255 201.30522 121.368)
+    (area 144.826667 52.3291 213.3741 121.368)
     (thickness 1.6)
     (drawings 95)
     (tracks 476)
@@ -504,7 +504,7 @@
   )
 
   (module Capacitors_SMD:C_0603 (layer F.Cu) (tedit 58CDF1EE) (tstamp 58973647)
-    (at 161.9885 106.299 180)
+    (at 161.9504 103.7336 180)
     (descr "Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0603")
     (path /5894B24C)
@@ -537,7 +537,7 @@
   )
 
   (module Capacitors_SMD:C_0603 (layer F.Cu) (tedit 58B98B9D) (tstamp 5897364D)
-    (at 162.0012 103.7336 180)
+    (at 161.9504 106.2736 180)
     (descr "Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0603")
     (path /5894B1F6)
