@@ -42,7 +42,7 @@ encoding utf-8
 Sheet 1 1
 Title "ESP32Stack"
 Date "2017-04-20"
-Rev "2.1"
+Rev "1.0"
 Comp ""
 Comment1 "by asukiaaa"
 Comment2 "github.com/asukiaaa/esp32stack"
