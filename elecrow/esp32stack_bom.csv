@@ -1,0 +1,20 @@
+Elecrow pn,Reference, Value, Footprint,url,memo
+,P1,USB_OTG,usb_micro_b:USB_MICRO_B-HIROSE-ZX62R-B-5P,http://www.mouser.jp/ProductDetail/Hirose-Connector/ZX62R-B-5P/?qs=XQjbzJWzFPUqfCc9Mb2Taw==,
+1023510A(10K),"R1,R2,R3,R4",10K,Resistors_SMD:R_0603,,
+10240102A(100),"R5,R6",100,Resistors_SMD:R_0603,,
+2011501A(1nf),"C1,C2",1nf,Capacitors_SMD:C_0603,,
+2015010A(10uf),"C3,C4",10uf,Capacitors_SMD:C_0603,,
+,"C5,C6,C7",0.1uf,Capacitors_SMD:C_0603,http://www.mouser.jp/ProductDetail/Yageo/CC0603JRNPO9BN101/?qs=AgBp2OyFlx%252bc5vUOLFsmXA==,"There is no 0.1uf capacitor on list of Elecrow Parts Library.
+If you have any stock of 0603 size 0.1nf capacitor, please use that."
+,C8,100uf,Capacitors_SMD:C_1206,http://www.mouser.jp/ProductDetail/Taiyo-Yuden/JMK316ABJ107ML-T/?qs=CNQs48zzdnrnxCTArzOO1A==,
+,"D1,D2",D,common:D_0805,http://www.mouser.jp/ProductDetail/ROHM-Semiconductor/RSX101VA-30TR/?qs=4kLU8WoGk0tB41wg4aRbGQ==,
+4040706A(green),D3,D05,LEDs:LED_0603,,
+,J1,CONN_01X17,common:Pin_Header_Straight_1x17_Pitch2.54mm,"https://www.aliexpress.com/item/8-5-0-0-10-5mm-0-1-pitch-0-4U-gold-plated-1x20-Stacking-Header/32676523255.html?spm=2114.01010208.3.302.x02mau&ws_ab_test=searchweb0_0,searchweb201602_3_10152_10065_10151_10068_10136_10137_10060_10138_10155_10062_10156_10154_10056_10055_10054_10059_10099_10103_10102_10096_10148_10147_10052_10053_10142_10107_10050_10051_10084_10083_10080_10082_10081_10110_10175_10111_10112_10113_10114_10181_10037_10182_10032_10078_10079_10077_10073_10070_10123_10124,searchweb201603_16,ppcSwitch_7&btsid=46af219b-123f-4c85-aaf2-386de5b51161&algo_expid=12d844e6-d613-47bf-b44a-c32775f5904f-39&algo_pvid=12d844e6-d613-47bf-b44a-c32775f5904f","Footprint is pinheader(male) but expected component is pinsocket(female)
+Cut the component to 17 pins or use similar one it has around 10mm length pin."
+,J2,CONN_01X16,common:Pin_Header_Straight_1x16_Pitch2.54mm,"https://www.aliexpress.com/item/8-5-0-0-10-5mm-0-1-pitch-0-4U-gold-plated-1x20-Stacking-Header/32676523255.html?spm=2114.01010208.3.302.x02mau&ws_ab_test=searchweb0_0,searchweb201602_3_10152_10065_10151_10068_10136_10137_10060_10138_10155_10062_10156_10154_10056_10055_10054_10059_10099_10103_10102_10096_10148_10147_10052_10053_10142_10107_10050_10051_10084_10083_10080_10082_10081_10110_10175_10111_10112_10113_10114_10181_10037_10182_10032_10078_10079_10077_10073_10070_10123_10124,searchweb201603_16,ppcSwitch_7&btsid=46af219b-123f-4c85-aaf2-386de5b51161&algo_expid=12d844e6-d613-47bf-b44a-c32775f5904f-39&algo_pvid=12d844e6-d613-47bf-b44a-c32775f5904f","Footprint is pinheader(male) but expected component is pinsocket(female)
+Cut the component to 16 pins or use similar one it has around 10mm length pin."
+4020290A,"Q1,Q2",MMBT3904,TO_SOT_Packages_SMD:SOT-23,,
+,"SW1,SW2",SWITCH_SPST,switch:SKRPACE010,http://www.mouser.jp/ProductDetail/ALPS/SKRPACE010/?qs=m0BA540hBPehI%2flbUxNGuw==,
+,U1,ESP32-WROOM,ESP32-footprints-Lib:ESP32-WROOM,http://akizukidenshi.com/catalog/g/gM-11850/,Please use modules that have telec mark.
+,U2,NCP1117ST33T3G,TO_SOT_Packages_SMD:SOT-223,http://www.mouser.jp/ProductDetail/ON-Semiconductor/NCP1117ST33T3G/?qs=%2fha2pyFaduj4IwJuyCbpkUdbMhVss5DSvD5YQhE4OjqSspN1A8SdWw%3d%3d,
+,U3,CP2102,Housings_DFN_QFN:QFN-28-1EP_5x5mm_Pitch0.5mm,http://www.mouser.jp/ProductDetail/Silicon-Labs/CP2102N-A01-GQFN28/?qs=sGAEpiMZZMudZehw8RjeZZsWXNNdVxm97Jo8lcnrZRA%3d,
