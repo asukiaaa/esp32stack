@@ -9,6 +9,13 @@ In combination with [EmptyStack](https://github.com/asukiaaa/emptystack).
 
 [schema](docs/esp32stack.pdf)
 
+# Driver
+This board uses CP2102 for serial communication.
+For mac and windiws user, please install the following driver.
+Linux supports cp2102 defaul, so linux user does not need any driver.
+
+[CP210x USB to UART Bridge VCP Drivers](http://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
+
 # Shop
 [trial stacks](https://trialstacks.base.ec/items/6243777)
 
