@@ -3,6 +3,7 @@ A kicad project of stacking board with using ESP-WROOM-32.
 
 ![ESP32Stack](docs/esp32stack.jpg)
 ![ESP32Stack side](docs/esp32stack_side.jpg)
+![ESP32Stack size](docs/esp32stack_size.png)
 
 In combination with [EmptyStack](https://github.com/asukiaaa/emptystack).
 ![Stacks](docs/stacks.jpg)
